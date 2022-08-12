@@ -1,0 +1,75 @@
+[24-Oct-2020 16:46:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 16:46:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 16:46:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 16:47:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 16:55:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 17:52:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[24-Oct-2020 18:10:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[25-Oct-2020 03:43:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[25-Oct-2020 03:50:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[25-Oct-2020 08:54:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[25-Oct-2020 08:54:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[25-Oct-2020 08:55:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'jobpaihk_jobuser'@'localhost' (using password: YES) in /home3/jobpaihk/public_html/php/database_connection.php:4
+Stack trace:
+#0 /home3/jobpaihk/public_html/php/database_connection.php(4): PDO->__construct('mysql:host=loca...', 'jobpaihk_jobuse...', 'O!-M*+waL~&a')
+#1 /home3/jobpaihk/public_html/php/email_verification.php(3): include('/home3/jobpaihk...')
+#2 {main}
+  thrown in /home3/jobpaihk/public_html/php/database_connection.php on line 4
+[30-Oct-2020 08:04:47 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/jobpaihk/public_html/php/email_verification.php on line 133
+[30-Oct-2020 08:04:47 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/jobpaihk/public_html/php/email_verification.php on line 133
+[30-Oct-2020 08:04:47 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/jobpaihk/public_html/php/email_verification.php on line 133
